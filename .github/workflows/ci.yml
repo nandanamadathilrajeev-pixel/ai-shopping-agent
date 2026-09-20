@@ -31,3 +31,4 @@ jobs:
         run: uv sync --locked
 
       - name: Compile Python
+        run: uv run python -m compileall src
