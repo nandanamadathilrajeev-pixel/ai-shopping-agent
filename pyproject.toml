@@ -1,7 +1,7 @@
 [project]
 name = "ai-shopping-agent"
 version = "0.1.0"
-description = "Agentic AI crash course by Codebasics"
+description = "AI shopping agent"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
